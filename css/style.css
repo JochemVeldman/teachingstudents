@@ -55,3 +55,8 @@ p {
 footer.page-footer {
   margin: 0;
 }
+.circle {
+    width: 200px;
+    height: 2000px;
+    padding-right: 100px;
+}
